@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-05-21T16:13:34.647Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="1CTSpbfmbDEtAwA_BBbW" version="24.4.0" type="device">
-  <diagram name="Page-1" id="PQXKkiJYJw18oreFUePt">
-    <mxGraphModel dx="2963" dy="1599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="Electron" modified="2024-05-21T16:20:26.383Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="25qIvmUlQmnbeDmgUbbc" version="24.4.0" type="device" pages="2">
+  <diagram name="roadmap" id="PQXKkiJYJw18oreFUePt">
+    <mxGraphModel dx="2440" dy="1316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -129,6 +129,50 @@
         </mxCell>
         <mxCell id="N-4er-gZHuLBnzx87b03-60" value="Organic chemistry" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="N-4er-gZHuLBnzx87b03-48">
           <mxGeometry y="300" width="340" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gHOfYVo9Q1LoGlkjKmcQ" name="to-do">
+    <mxGraphModel dx="2074" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3MbeqakWfw4Iax52QCvt-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3MbeqakWfw4Iax52QCvt-1" target="3MbeqakWfw4Iax52QCvt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3MbeqakWfw4Iax52QCvt-1" value="搭建 Jupyter Lab 環境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3MbeqakWfw4Iax52QCvt-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3MbeqakWfw4Iax52QCvt-2" target="3MbeqakWfw4Iax52QCvt-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3MbeqakWfw4Iax52QCvt-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3MbeqakWfw4Iax52QCvt-2" target="3MbeqakWfw4Iax52QCvt-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3MbeqakWfw4Iax52QCvt-2" value="看 Jupyter Lab 教程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3MbeqakWfw4Iax52QCvt-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3MbeqakWfw4Iax52QCvt-3" target="3MbeqakWfw4Iax52QCvt-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3MbeqakWfw4Iax52QCvt-3" value="看 Latex 教程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3MbeqakWfw4Iax52QCvt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3MbeqakWfw4Iax52QCvt-4" target="3MbeqakWfw4Iax52QCvt-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3MbeqakWfw4Iax52QCvt-4" value="看 python 教程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3MbeqakWfw4Iax52QCvt-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3MbeqakWfw4Iax52QCvt-8" target="3MbeqakWfw4Iax52QCvt-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3MbeqakWfw4Iax52QCvt-8" value="Khan Math" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="690" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3MbeqakWfw4Iax52QCvt-9" value="Khan Phycsis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="800" width="360" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-05-21T16:38:59.912Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="FCnfjZpEWHuCzChO6esv" version="24.4.0" type="device" pages="2">
+<mxfile host="Electron" modified="2024-05-23T20:35:09.454Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="YRoS4xd_DyoE0r2s1vMS" version="24.4.0" type="device" pages="2">
   <diagram name="roadmap" id="PQXKkiJYJw18oreFUePt">
-    <mxGraphModel dx="2722" dy="1316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2901" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N-4er-gZHuLBnzx87b03-1" value="Khan Academy" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="-90" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N-4er-gZHuLBnzx87b03-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="N-4er-gZHuLBnzx87b03-2" target="N-4er-gZHuLBnzx87b03-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -136,11 +136,29 @@
         <mxCell id="7WBEwW3xjbPA-8i2IIj3-1" value="link&lt;div&gt;https://www.khanacademy.org/math&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="720" width="220" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="k_PKu07bfCm5E0tQTX_w-1" value="python" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k_PKu07bfCm5E0tQTX_w-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k_PKu07bfCm5E0tQTX_w-2" target="k_PKu07bfCm5E0tQTX_w-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k_PKu07bfCm5E0tQTX_w-2" value="Zero To Master" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k_PKu07bfCm5E0tQTX_w-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k_PKu07bfCm5E0tQTX_w-4" target="k_PKu07bfCm5E0tQTX_w-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k_PKu07bfCm5E0tQTX_w-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k_PKu07bfCm5E0tQTX_w-4" target="N-4er-gZHuLBnzx87b03-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k_PKu07bfCm5E0tQTX_w-4" value="base" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="gHOfYVo9Q1LoGlkjKmcQ" name="to-do">
-    <mxGraphModel dx="1430" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -156,7 +174,7 @@
         <mxCell id="3MbeqakWfw4Iax52QCvt-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3MbeqakWfw4Iax52QCvt-2" target="3MbeqakWfw4Iax52QCvt-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lqFQn80ujude06Mkgzrd-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3MbeqakWfw4Iax52QCvt-2" target="lqFQn80ujude06Mkgzrd-3">
+        <mxCell id="lqFQn80ujude06Mkgzrd-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3MbeqakWfw4Iax52QCvt-2" target="lqFQn80ujude06Mkgzrd-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3MbeqakWfw4Iax52QCvt-2" value="看 Jupyter Lab 教程" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
@@ -183,13 +201,13 @@
         <mxCell id="3MbeqakWfw4Iax52QCvt-9" value="Khan Phycsis" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="800" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lqFQn80ujude06Mkgzrd-3" value="Sources" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lqFQn80ujude06Mkgzrd-3" value="Sources" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="395" width="460" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="lqFQn80ujude06Mkgzrd-5" value="https://youtu.be/yjjE-MJD5TI?si=dWASzPSNLyfzzRjm" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="lqFQn80ujude06Mkgzrd-3">
+        <mxCell id="lqFQn80ujude06Mkgzrd-5" value="https://youtu.be/yjjE-MJD5TI?si=dWASzPSNLyfzzRjm" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="lqFQn80ujude06Mkgzrd-3" vertex="1">
           <mxGeometry y="30" width="460" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lqFQn80ujude06Mkgzrd-4" value="https://jupyterlab.readthedocs.io/en/latest/" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="lqFQn80ujude06Mkgzrd-3">
+        <mxCell id="lqFQn80ujude06Mkgzrd-4" value="https://jupyterlab.readthedocs.io/en/latest/" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="lqFQn80ujude06Mkgzrd-3" vertex="1">
           <mxGeometry y="60" width="460" height="30" as="geometry" />
         </mxCell>
       </root>

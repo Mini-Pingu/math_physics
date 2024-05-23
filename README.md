@@ -1,17 +1,17 @@
-# math_physics
+# maths_physics
 
-開發環境：
+Lab:
 
-​	Jupyter Lab
+​	Jupyter-Lab
 
-語言：
+Language:
 
-​	python
+​	Python
 
-公式：
+Paper:
 
 ​	Latex
 
-書寫：
+Writing:
 
 ​	Markdown

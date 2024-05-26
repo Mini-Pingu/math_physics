@@ -90,3 +90,9 @@ str2 = "str2"
 str3 = f"{str1} {str2}"
 
 print(str3)
+
+print(type(int(str(100))))
+
+weather = 'This\'s "kind of" rainy.\n Hope you have a good day!\n'
+
+print(weather)

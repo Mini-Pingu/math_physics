@@ -64,6 +64,9 @@ print(IQ)
 my_name = "Chris"
 _my_age = "29"  # private variable
 
+whole_statement = f"My name is {my_name}, and age is {_my_age}."
+print(whole_statement)
+
 
 def say_my_name(name: str) -> str:
     """
@@ -89,7 +92,16 @@ str2 = "str2"
 
 str3 = f"{str1} {str2}"
 
-print(str3)
+try:
+    str3.index("e")
+except ValueError as e:
+    print(e)
+
+
+print("here:", str3[0:-1:2]) # [start:stop:step] slicing
+
+str4 = "4" # str is immutable
+str4 = "123"
 
 print(type(int(str(100))))
 

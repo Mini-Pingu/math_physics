@@ -1,5 +1,7 @@
 """
-notes of ztm courses
+intro notes of ztm courses
 """
 
-print("a")
+name = input("what is your name? ")
+
+print(f"hello {name}.")

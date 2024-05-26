@@ -127,3 +127,12 @@ print(cart)
 
 # the fastest way to copy a list
 new_cart = cart[:]
+
+cart.append("kiwi")
+
+cart.insert(9, "strawberry")  # insert element
+cart.extend(["blueberry", "blackberry"])  # extend list
+cart.pop(2)  # pop by index
+cart.remove("grape")  # remove the element
+
+print(cart)

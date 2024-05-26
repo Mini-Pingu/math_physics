@@ -98,13 +98,32 @@ except ValueError as e:
     print(e)
 
 
-print("here:", str3[0:-1:2]) # [start:stop:step] slicing
+print("here:", str3[0:-1:2])  # [start:stop:step] slicing
 
-str4 = "4" # str is immutable
+str4 = "4"  # str is immutable
 str4 = "123"
 
-print(type(int(str(100))))
+print(bool(0))
 
-weather = 'This\'s "kind of" rainy.\n Hope you have a good day!\n'
+weather = 'This\'s "kind of" rainy.\nHope you have a good day!\n'
 
 print(weather)
+
+is_rainy = False
+
+if is_rainy:
+    print(weather)
+else:
+    print(weather.replace("rainy", "sunny"))
+
+cart = [
+    "apple",
+    "banana",
+    "orange",
+    "grape",
+]  # list is mutable, but string is immutable
+cart[0] = "mango"
+print(cart)
+
+# the fastest way to copy a list
+new_cart = cart[:]

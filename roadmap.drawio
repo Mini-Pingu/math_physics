@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-05-26T13:40:30.068Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="wmyi5D_0IEqSuuf3AfHm" version="24.4.0" type="device" pages="2">
+<mxfile host="Electron" modified="2024-05-26T13:51:37.456Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="xee4lpyRNvs0RgTRvrTn" version="24.4.0" type="device" pages="2">
   <diagram name="roadmap" id="PQXKkiJYJw18oreFUePt">
-    <mxGraphModel dx="4094" dy="2584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5802" dy="3575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -136,14 +136,11 @@
         <mxCell id="7WBEwW3xjbPA-8i2IIj3-1" value="link&lt;div&gt;https://www.khanacademy.org/math&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="720" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ET3lL5YMX0SeXQZidsGZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k_PKu07bfCm5E0tQTX_w-1" target="ET3lL5YMX0SeXQZidsGZ-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ET3lL5YMX0SeXQZidsGZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k_PKu07bfCm5E0tQTX_w-1" target="ET3lL5YMX0SeXQZidsGZ-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k_PKu07bfCm5E0tQTX_w-1" value="python" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
-          <mxGeometry x="160" y="-584" width="120" height="60" as="geometry" />
+          <mxGeometry x="231" y="-10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k_PKu07bfCm5E0tQTX_w-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k_PKu07bfCm5E0tQTX_w-2" target="k_PKu07bfCm5E0tQTX_w-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -184,11 +181,8 @@
         <mxCell id="ET3lL5YMX0SeXQZidsGZ-2" value="Papers" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ET3lL5YMX0SeXQZidsGZ-5" value="Repo&lt;br&gt;https://github.com/Mini-Pingu/7950x_python/tree/master" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
-          <mxGeometry x="-270" y="-680" width="325" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="ET3lL5YMX0SeXQZidsGZ-7" value="progress" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
-          <mxGeometry x="490" y="-584" width="120" height="60" as="geometry" />
+        <mxCell id="ET3lL5YMX0SeXQZidsGZ-7" value="ztm&lt;br&gt;leetcode" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+          <mxGeometry x="476" y="-10" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -221,7 +215,7 @@
         <mxCell id="2dfnUi_x8UnXxP_BWQzS-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3MbeqakWfw4Iax52QCvt-3" target="2dfnUi_x8UnXxP_BWQzS-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3MbeqakWfw4Iax52QCvt-3" value="Latex" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+        <mxCell id="3MbeqakWfw4Iax52QCvt-3" value="Latex" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="240" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3MbeqakWfw4Iax52QCvt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3MbeqakWfw4Iax52QCvt-4" target="3MbeqakWfw4Iax52QCvt-8" edge="1">
@@ -264,15 +258,9 @@
           <mxGeometry x="-820" y="275" width="740" height="810" as="geometry" />
         </mxCell>
         <mxCell id="2dfnUi_x8UnXxP_BWQzS-2" value="Sources" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="2dfnUi_x8UnXxP_BWQzS-22" vertex="1">
-          <mxGeometry x="40" y="535" width="390" height="60" as="geometry" />
+          <mxGeometry x="40" y="695" width="390" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2dfnUi_x8UnXxP_BWQzS-3" value="https://youtu.be/ydOTMQC7np0?si=MkpVgxydvI0xPn96" style="text;strokeColor=#B09500;fillColor=#e3c800;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="2dfnUi_x8UnXxP_BWQzS-2" vertex="1">
-          <mxGeometry y="30" width="390" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2dfnUi_x8UnXxP_BWQzS-12" value="Refs" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="2dfnUi_x8UnXxP_BWQzS-22" vertex="1">
-          <mxGeometry x="40" y="675" width="390" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2dfnUi_x8UnXxP_BWQzS-14" value="https://www.overleaf.com/project" style="text;strokeColor=#B09500;fillColor=#e3c800;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="2dfnUi_x8UnXxP_BWQzS-12" vertex="1">
+        <mxCell id="2dfnUi_x8UnXxP_BWQzS-3" value="https://youtu.be/ydOTMQC7np0?si=MkpVgxydvI0xPn96" style="text;strokeColor=#005700;fillColor=#008a00;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#ffffff;" parent="2dfnUi_x8UnXxP_BWQzS-2" vertex="1">
           <mxGeometry y="30" width="390" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2dfnUi_x8UnXxP_BWQzS-20" value="Overleaf" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="2dfnUi_x8UnXxP_BWQzS-22" vertex="1">
